@@ -1,0 +1,7 @@
+
+class Queen {
+public:
+    Queen();
+};
+
+
